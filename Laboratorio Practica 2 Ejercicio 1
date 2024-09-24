@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <clock.h>
+
+int ordenarArreglo(int nums){
+    for(int i = 0; nums[i] < nums[i+1]; i++){
+    
+    }
+}
+int main(void){
+    int nums1[];
+    int nums2[];
+    nums1 = ordenarArreglo(nums1[])
+    nums1 = ordenarArreglo
+    
+    return 0;
+}
